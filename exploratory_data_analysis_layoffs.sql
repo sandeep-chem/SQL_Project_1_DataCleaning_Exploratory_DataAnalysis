@@ -14,7 +14,7 @@ order by total_laid_off desc; -- companies which completely went under, ordered 
 select *
 from layoffs_staging_2
 where percentage_laid_off = 1
-order by funds_raised_millions desc; -- companies which completeely went under, ordered by the amount of funds raised
+order by funds_raised_millions desc; -- companies which completely went under, ordered by the amount of funds raised
 
 select company, sum(total_laid_off) -- finding the total amount of lay offs based on the company
 from layoffs_staging_2
