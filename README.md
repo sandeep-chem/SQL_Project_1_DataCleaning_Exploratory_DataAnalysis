@@ -1,8 +1,9 @@
 SQL_Project_1: Data Cleaning & Exploratory Data Analysis
 
-This project focuses on data cleaning and exploratory data analysis (EDA) using SQL, inspired by [Alex The Analyst]((https://www.youtube.com/watch?v=4UltKCnnnTA)).
-Dataset
+This project focuses on data cleaning and exploratory data analysis (EDA) using SQL, inspired by Alex the Analyst.
+[https://www.youtube.com/watch?v=4UltKCnnnTA].
 
+Dataset:
 The project uses layoffs.csv, which contains data on company layoffs from 2020 to 2023.
 Files & Description
 
