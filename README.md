@@ -69,21 +69,6 @@ Analyzed key trends in layoffs using aggregate queries:
 
 ---
 
-## 📁 Repository Structure
-
-
-SQL_Project_1/
-│
-├── Data/
-│ └── layoffs.csv
-│
-├── Queries/
-│ ├── DataCleaning.sql
-│ └── EDA.sql
-
-
----
-
 ## ✍️ Author
 
 **Sandeep Dash**  
