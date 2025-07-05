@@ -80,9 +80,6 @@ SQL_Project_1/
 ├── Queries/
 │ ├── DataCleaning.sql
 │ └── EDA.sql
-│
-├── Results/
-│ └── Screenshots of output tables
 
 
 ---
