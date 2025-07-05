@@ -24,7 +24,7 @@ Performed in SQL to prepare the data for analysis:
 4. Converted date formats and cleaned numerical fields
 5. Created a staging table to avoid modifying raw data
 
-> ✅ Scripts: [`DataCleaning.sql`](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/Queries/DataCleaning.sql)
+> ✅ Scripts: [`DataCleaning.sql`](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/data_cleaning_layoffs.sql)
 
 ---
 
@@ -37,8 +37,7 @@ Analyzed key trends in layoffs using aggregate queries:
 - Country-wise layoff distribution
 - Industry and stage-based trends
 
-> 📸 Output screenshots available in the [`Results`](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/tree/main/Results) folder  
-> ✅ Queries: [`EDA.sql`](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/Queries/EDA.sql)
+> ✅ Queries: [`EDA.sql`](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/exploratory_data_analysis_layoffs.sql)
 
 ---
 
