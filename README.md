@@ -8,7 +8,7 @@ This project focuses on cleaning and analyzing a real-world dataset of global te
 
 ## 🗂️ Dataset
 
-- **Source**: [layoffs.csv](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/Data/layoffs.csv)
+- **Source**: [layoffs.csv](https://github.com/sandeep-chem/SQL_Project_1_DataCleaning_Exploratory_DataAnalysis/blob/main/layoffs.csv)
 - **Fields**: company, location, industry, total_laid_off, percentage_laid_off, date, stage, country, funds_raised_millions
 - **Size**: ~2300 rows
 
